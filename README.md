@@ -3,7 +3,7 @@
 Welcome to the Employee Churn Prediction Project! This project aims to provide valuable insights and predictive models for organizations looking to address employee turnover. Employee churn can have a significant impact on productivity and overall company success. By leveraging exploratory data analysis, data cleaning, various data visualizations, and machine learning techniques, this project helps organizations make data-driven decisions to reduce employee turnover and improve retention strategies.
 
 ## Key Features
-Exploratory Data Analysis (EDA): This project starts with a comprehensive exploration of the employee dataset. We dive deep into the data to understand its characteristics, uncover trends, and identify potential factors contributing to employee churn.
+* Exploratory Data Analysis (EDA): This project starts with a comprehensive exploration of the employee dataset. We dive deep into the data to understand its characteristics, uncover trends, and identify potential factors contributing to employee churn.
 
 * Data Cleaning: High-quality data is essential for accurate predictions. We perform thorough data cleaning, handling missing values, outliers, and ensuring data integrity.
 
