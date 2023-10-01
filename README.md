@@ -16,6 +16,6 @@ Employee churn is a costly problem for organizations. High turnover rates not on
 
 ## How to Use this Repository
 Clone this repository to your local machine.
-Review the Jupyter notebooks in the notebooks directory to understand the data analysis and model development process.
+Review the Jupyter notebooks in the notebook directory to understand the data analysis and model development process.
 Follow the step-by-step guides provided in the notebooks to replicate the analysis and train your own predictive models.
 Utilize the trained models to predict employee churn within your organization.
