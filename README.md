@@ -9,6 +9,9 @@ Welcome to the Employee Churn Prediction Project! This project aims to provide v
 
 * Data Visualizations: Visualizing data is crucial for gaining insights. We utilizeed a variety of data visualization techniques, such as histograms, scatter plots, and heat maps, to reveal patterns and relationships within the data.
 
+![heatmap](https://github.com/akzmuk/Employee-churn-prediction/assets/113342466/5d1ad316-5e54-4504-ae0a-d0f9a1f04b6d)
+
+
 * Machine Learning Models: Two powerful machine learning models are developed - a Decision Tree and a Random Forest. These models are trained on the cleaned and visualized data to predict employee churn. The project boasts impressive final evaluation scores, with accuracy exceeding 95%.
 
 ## Why this project matters
