@@ -12,7 +12,7 @@ Welcome to the Employee Churn Prediction Project! This project aims to provide v
 ![heatmap](https://github.com/akzmuk/Employee-churn-prediction/assets/113342466/5d1ad316-5e54-4504-ae0a-d0f9a1f04b6d)
 
 
-* Machine Learning Models: Two powerful machine learning models are developed - a Decision Tree and a Random Forest. These models are trained on the cleaned and visualized data to predict employee churn. The project boasts impressive final evaluation scores, with accuracy exceeding 95%.
+* Machine Learning Models: Two powerful machine learning models are developed - a Decision Tree and a Random Forest. These models are trained on the cleaned and visualized data to predict employee churn. The project boasts impressive final evaluation scores, with roc_auc metric exceeding 95%.
 
 ![Записати](https://github.com/akzmuk/Employee-churn-prediction/assets/113342466/989138f7-5d7e-48d1-9d48-06e748ffd311)
 
