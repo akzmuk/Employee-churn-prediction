@@ -1,4 +1,7 @@
 # Employee Churn Prediction Project
+
+![israel-andrade-YI_9SivVt_s-unsplash](https://github.com/akzmuk/Employee-churn-prediction/assets/113342466/29890a6a-84ce-47b7-8d47-c43a089687f8)
+
 ## Overview
 Welcome to the Employee Churn Prediction Project! This project aims to provide valuable insights and predictive models for organizations looking to address employee turnover. Employee churn can have a significant impact on productivity and overall company success. By leveraging exploratory data analysis, data cleaning, various data visualizations, and machine learning techniques, this project helps organizations make data-driven decisions to reduce employee turnover and improve retention strategies.
 
